@@ -1,5 +1,5 @@
 # Awesome Linear Regression
-![Awesome Linear Regression](image/alr.png)
+![Awesome Linear Regression](https://github.com/somkietacode/Awesome_Linear_Regression/blob/main/image/alr.png?raw=true)
 Linear regression attempts to model the relationship between variables by fitting a linear equation to observed data. 
 This repository hosts the development of the Awesome Linear Regression library.
 
