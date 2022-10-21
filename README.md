@@ -40,7 +40,7 @@ y = np.matrix([[2],[9],[23],[96]])
 
 # Train the model
 
-Lr = linearregression(x,y)
+Lr = LR(x,y)
 Beta, rss = Lr.leastsquare()
 
 
